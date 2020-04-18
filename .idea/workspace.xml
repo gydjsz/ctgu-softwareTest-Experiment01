@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="812fe0a6-d89e-4c1a-8624-c1e46645cded" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\school\java\maven_repository" />
+        <option name="mavenHome" value="F:/school/java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\school\java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1aCw1WhPYpPzbN790cJpJwAxpch" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ctgu.commission" />
+      <recent name="com.ctgu.triangle" />
+      <recent name="com.ctgu.date" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ctgu.triangle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="CommissionDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.dataGenerator.CommissionDataGenerator" />
+      <module name="experiment01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.dataGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextDateDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.dataGenerator.NextDateDataGenerator" />
+      <module name="experiment01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.dataGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.dataGenerator.TriangleDataGenerator" />
+      <module name="experiment01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.dataGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment01.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.commission.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctgu.commission" />
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.commission.CommissionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment01.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctgu.triangle" />
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.triangle.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="AJP_PORT" value="1099" />
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52521" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TriangleTest" />
+      <item itemvalue="JUnit.CommissionTest" />
+      <item itemvalue="Application.TriangleDataGenerator" />
+      <item itemvalue="Application.NextDateDataGenerator" />
+      <item itemvalue="Application.CommissionDataGenerator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="Application.CommissionDataGenerator" />
+        <item itemvalue="Application.NextDateDataGenerator" />
+        <item itemvalue="Application.TriangleDataGenerator" />
+        <item itemvalue="JUnit.CommissionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="812fe0a6-d89e-4c1a-8624-c1e46645cded" name="Default Changelist" comment="" />
+      <created>1586252668486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586252668486</updated>
+      <workItem from="1586252672458" duration="7211000" />
+      <workItem from="1586307454789" duration="3176000" />
+      <workItem from="1586311467642" duration="4598000" />
+      <workItem from="1586577307615" duration="1555000" />
+      <workItem from="1586742936525" duration="7474000" />
+      <workItem from="1586828122051" duration="17215000" />
+      <workItem from="1586913400932" duration="21088000" />
+      <workItem from="1586998635925" duration="23876000" />
+      <workItem from="1587089162900" duration="3534000" />
+      <workItem from="1587095304566" duration="3187000" />
+      <workItem from="1587106034989" duration="4654000" />
+      <workItem from="1587174497632" duration="12912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586313535915">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586313535915" />
+    <state x="473" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1587106398159">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="473" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1587106398159" />
+    <state x="436" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586311815789">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="436" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1586311815789" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1587107392828">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1587107392828" />
+    <state width="1396" height="265" key="GridCell.Tab.0.bottom" timestamp="1587211531752">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="265" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587211531752" />
+    <state width="1396" height="265" key="GridCell.Tab.0.center" timestamp="1587211531752">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="265" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587211531752" />
+    <state width="1396" height="265" key="GridCell.Tab.0.left" timestamp="1587211531752">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="265" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587211531752" />
+    <state width="1396" height="265" key="GridCell.Tab.0.right" timestamp="1587211531752">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="265" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587211531752" />
+    <state width="1396" height="266" key="GridCell.Tab.1.bottom" timestamp="1587091333113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="266" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587091333113" />
+    <state width="1396" height="266" key="GridCell.Tab.1.center" timestamp="1587091333113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="266" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1587091333113" />
+    <state width="1396" height="266" key="GridCell.Tab.1.left" timestamp="1587091333113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="266" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1587091333112" />
+    <state width="1396" height="266" key="GridCell.Tab.1.right" timestamp="1587091333113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="266" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1587091333113" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1587211521725">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587211521725" />
+    <state x="419" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586743268221">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="419" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1586743268221" />
+    <state x="491" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587105815571">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860@0.0.1440.860" timestamp="1587105815571" />
+    <state x="532" y="257" key="export.test.results" timestamp="1587211536029">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="532" y="257" key="export.test.results/0.0.1440.860@0.0.1440.860" timestamp="1587211536029" />
+    <state x="102" y="62" width="1251" height="798" key="new project wizard" timestamp="1587107416431">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="62" width="1251" height="798" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1587107416431" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1587019872768">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1587019872768" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/experiment01$TriangleTest_classifyTriangle.ic" NAME="TriangleTest.classifyTriangle Coverage Results" MODIFIED="1586313543145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ctgu.triangle.Triangle</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/experiment01$TriangleTest_classifyTriangle.es" NAME="TriangleTest.classifyTriangle Coverage Results" MODIFIED="1586313394071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="emma" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ctgu.triangle.Triangle</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/experiment01$TriangleTest.ic" NAME="TriangleTest Coverage Results" MODIFIED="1587124587344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ctgu.triangle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/experiment01$TriangleTest_classifyTriangle.exec" NAME="TriangleTest.classifyTriangle Coverage Results" MODIFIED="1586313410465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ctgu.triangle.Triangle</FILTER>
+    </SUITE>
+  </component>
+</project>
